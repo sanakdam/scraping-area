@@ -1,0 +1,4114 @@
+[
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Barat",
+    "type": "Kab.",
+    "name": "Aceh Barat",
+    "code": "11.05",
+    "provinceCode": "11"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Barat Daya",
+    "type": "Kab.",
+    "name": "Aceh Barat Daya",
+    "code": "11.12",
+    "provinceCode": "11"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Besar",
+    "type": "Kab.",
+    "name": "Aceh Besar",
+    "code": "11.06",
+    "provinceCode": "11"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Jaya",
+    "type": "Kab.",
+    "name": "Aceh Jaya",
+    "code": "11.14",
+    "provinceCode": "11"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Selatan",
+    "type": "Kab.",
+    "name": "Aceh Selatan",
+    "code": "11.01",
+    "provinceCode": "11"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Singkil",
+    "type": "Kab.",
+    "name": "Aceh Singkil",
+    "code": "11.10",
+    "provinceCode": "11"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Tamiang",
+    "type": "Kab.",
+    "name": "Aceh Tamiang",
+    "code": "11.16",
+    "provinceCode": "11"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Tengah",
+    "type": "Kab.",
+    "name": "Aceh Tengah",
+    "code": "11.04",
+    "provinceCode": "11"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Tenggara",
+    "type": "Kab.",
+    "name": "Aceh Tenggara",
+    "code": "11.02",
+    "provinceCode": "11"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Timur",
+    "type": "Kab.",
+    "name": "Aceh Timur",
+    "code": "11.03",
+    "provinceCode": "11"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Aceh Utara",
+    "type": "Kab.",
+    "name": "Aceh Utara",
+    "code": "11.08",
+    "provinceCode": "11"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Banda Aceh",
+    "type": "Kota",
+    "name": "Banda Aceh",
+    "code": "11.71",
+    "provinceCode": "11"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bener Meriah",
+    "type": "Kab.",
+    "name": "Bener Meriah",
+    "code": "11.17",
+    "provinceCode": "11"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bireuen",
+    "type": "Kab.",
+    "name": "Bireuen",
+    "code": "11.11",
+    "provinceCode": "11"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gayo Lues",
+    "type": "Kab.",
+    "name": "Gayo Lues",
+    "code": "11.13",
+    "provinceCode": "11"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Langsa",
+    "type": "Kota",
+    "name": "Langsa",
+    "code": "11.74",
+    "provinceCode": "11"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Lhokseumawe",
+    "type": "Kota",
+    "name": "Lhokseumawe",
+    "code": "11.73",
+    "provinceCode": "11"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nagan Raya",
+    "type": "Kab.",
+    "name": "Nagan Raya",
+    "code": "11.15",
+    "provinceCode": "11"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pidie",
+    "type": "Kab.",
+    "name": "Pidie",
+    "code": "11.07",
+    "provinceCode": "11"
+  },
+  {
+    "no": "20",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pidie Jaya",
+    "type": "Kab.",
+    "name": "Pidie Jaya",
+    "code": "11.18",
+    "provinceCode": "11"
+  },
+  {
+    "no": "21",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sabang",
+    "type": "Kota",
+    "name": "Sabang",
+    "code": "11.72",
+    "provinceCode": "11"
+  },
+  {
+    "no": "22",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Simeulue",
+    "type": "Kab.",
+    "name": "Simeulue",
+    "code": "11.09",
+    "provinceCode": "11"
+  },
+  {
+    "no": "23",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Subulussalam",
+    "type": "Kota",
+    "name": "Subulussalam",
+    "code": "11.75",
+    "provinceCode": "11"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Badung",
+    "type": "Kab.",
+    "name": "Badung",
+    "code": "51.03",
+    "provinceCode": "51"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bangli",
+    "type": "Kab.",
+    "name": "Bangli",
+    "code": "51.06",
+    "provinceCode": "51"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buleleng",
+    "type": "Kab.",
+    "name": "Buleleng",
+    "code": "51.08",
+    "provinceCode": "51"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Denpasar",
+    "type": "Kota",
+    "name": "Denpasar",
+    "code": "51.71",
+    "provinceCode": "51"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gianyar",
+    "type": "Kab.",
+    "name": "Gianyar",
+    "code": "51.04",
+    "provinceCode": "51"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jembrana",
+    "type": "Kab.",
+    "name": "Jembrana",
+    "code": "51.01",
+    "provinceCode": "51"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Karangasem",
+    "type": "Kab.",
+    "name": "Karangasem",
+    "code": "51.07",
+    "provinceCode": "51"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Klungkung",
+    "type": "Kab.",
+    "name": "Klungkung",
+    "code": "51.05",
+    "provinceCode": "51"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tabanan",
+    "type": "Kab.",
+    "name": "Tabanan",
+    "code": "51.02",
+    "provinceCode": "51"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Cilegon",
+    "type": "Kota",
+    "name": "Cilegon",
+    "code": "36.72",
+    "provinceCode": "36"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lebak",
+    "type": "Kab.",
+    "name": "Lebak",
+    "code": "36.02",
+    "provinceCode": "36"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pandeglang",
+    "type": "Kab.",
+    "name": "Pandeglang",
+    "code": "36.01",
+    "provinceCode": "36"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Serang",
+    "type": "Kota",
+    "name": "Serang",
+    "code": "36.73",
+    "provinceCode": "36"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Serang",
+    "type": "Kab.",
+    "name": "Serang",
+    "code": "36.04",
+    "provinceCode": "36"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tangerang",
+    "type": "Kota",
+    "name": "Tangerang",
+    "code": "36.71",
+    "provinceCode": "36"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tangerang",
+    "type": "Kab.",
+    "name": "Tangerang",
+    "code": "36.03",
+    "provinceCode": "36"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tangerang Selatan",
+    "type": "Kota",
+    "name": "Tangerang Selatan",
+    "code": "36.74",
+    "provinceCode": "36"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bengkulu",
+    "type": "Kota",
+    "name": "Bengkulu",
+    "code": "17.71",
+    "provinceCode": "17"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bengkulu Selatan",
+    "type": "Kab.",
+    "name": "Bengkulu Selatan",
+    "code": "17.01",
+    "provinceCode": "17"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bengkulu Tengah",
+    "type": "Kab.",
+    "name": "Bengkulu Tengah",
+    "code": "17.09",
+    "provinceCode": "17"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bengkulu Utara",
+    "type": "Kab.",
+    "name": "Bengkulu Utara",
+    "code": "17.03",
+    "provinceCode": "17"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kaur",
+    "type": "Kab.",
+    "name": "Kaur",
+    "code": "17.04",
+    "provinceCode": "17"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepahiang",
+    "type": "Kab.",
+    "name": "Kepahiang",
+    "code": "17.08",
+    "provinceCode": "17"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lebong",
+    "type": "Kab.",
+    "name": "Lebong",
+    "code": "17.07",
+    "provinceCode": "17"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muko Muko",
+    "type": "Kab.",
+    "name": "Muko Muko",
+    "code": "17.06",
+    "provinceCode": "17"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rejang Lebong",
+    "type": "Kab.",
+    "name": "Rejang Lebong",
+    "code": "17.02",
+    "provinceCode": "17"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Seluma",
+    "type": "Kab.",
+    "name": "Seluma",
+    "code": "17.05",
+    "provinceCode": "17"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bantul",
+    "type": "Kab.",
+    "name": "Bantul",
+    "code": "34.02",
+    "provinceCode": "34"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gunung Kidul",
+    "type": "Kab.",
+    "name": "Gunung Kidul",
+    "code": "34.03",
+    "provinceCode": "34"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kulon Progo",
+    "type": "Kab.",
+    "name": "Kulon Progo",
+    "code": "34.01",
+    "provinceCode": "34"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sleman",
+    "type": "Kab.",
+    "name": "Sleman",
+    "code": "34.04",
+    "provinceCode": "34"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Yogyakarta",
+    "type": "Kota",
+    "name": "Yogyakarta",
+    "code": "34.71",
+    "provinceCode": "34"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta Barat",
+    "type": "Kota",
+    "name": "Jakarta Barat",
+    "code": "31.73",
+    "provinceCode": "31"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta Pusat",
+    "type": "Kota",
+    "name": "Jakarta Pusat",
+    "code": "31.71",
+    "provinceCode": "31"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta Selatan",
+    "type": "Kota",
+    "name": "Jakarta Selatan",
+    "code": "31.74",
+    "provinceCode": "31"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta Timur",
+    "type": "Kota",
+    "name": "Jakarta Timur",
+    "code": "31.75",
+    "provinceCode": "31"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jakarta Utara",
+    "type": "Kota",
+    "name": "Jakarta Utara",
+    "code": "31.72",
+    "provinceCode": "31"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Seribu",
+    "type": "Kab.",
+    "name": "Kepulauan Seribu",
+    "code": "31.01",
+    "provinceCode": "31"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Boalemo",
+    "type": "Kab.",
+    "name": "Boalemo",
+    "code": "75.02",
+    "provinceCode": "75"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bone Bolango",
+    "type": "Kab.",
+    "name": "Bone Bolango",
+    "code": "75.03",
+    "provinceCode": "75"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gorontalo",
+    "type": "Kab.",
+    "name": "Gorontalo",
+    "code": "75.01",
+    "provinceCode": "75"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Gorontalo",
+    "type": "Kota",
+    "name": "Gorontalo",
+    "code": "75.71",
+    "provinceCode": "75"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gorontalo Utara",
+    "type": "Kab.",
+    "name": "Gorontalo Utara",
+    "code": "75.05",
+    "provinceCode": "75"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pohuwato",
+    "type": "Kab.",
+    "name": "Pohuwato",
+    "code": "75.04",
+    "provinceCode": "75"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Batang Hari",
+    "type": "Kab.",
+    "name": "Batang Hari",
+    "code": "15.04",
+    "provinceCode": "15"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bungo",
+    "type": "Kab.",
+    "name": "Bungo",
+    "code": "15.08",
+    "provinceCode": "15"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jambi",
+    "type": "Kota",
+    "name": "Jambi",
+    "code": "15.71",
+    "provinceCode": "15"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kerinci",
+    "type": "Kab.",
+    "name": "Kerinci",
+    "code": "15.01",
+    "provinceCode": "15"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Merangin",
+    "type": "Kab.",
+    "name": "Merangin",
+    "code": "15.02",
+    "provinceCode": "15"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muaro Jambi",
+    "type": "Kab.",
+    "name": "Muaro Jambi",
+    "code": "15.05",
+    "provinceCode": "15"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sarolangun",
+    "type": "Kab.",
+    "name": "Sarolangun",
+    "code": "15.03",
+    "provinceCode": "15"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sungaipenuh",
+    "type": "Kota",
+    "name": "Sungaipenuh",
+    "code": "15.72",
+    "provinceCode": "15"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tanjung Jabung Barat",
+    "type": "Kab.",
+    "name": "Tanjung Jabung Barat",
+    "code": "15.06",
+    "provinceCode": "15"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tanjung Jabung Timur",
+    "type": "Kab.",
+    "name": "Tanjung Jabung Timur",
+    "code": "15.07",
+    "provinceCode": "15"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tebo",
+    "type": "Kab.",
+    "name": "Tebo",
+    "code": "15.09",
+    "provinceCode": "15"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bandung",
+    "type": "Kota",
+    "name": "Bandung",
+    "code": "32.73",
+    "provinceCode": "32"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bandung",
+    "type": "Kab.",
+    "name": "Bandung",
+    "code": "32.04",
+    "provinceCode": "32"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bandung Barat",
+    "type": "Kab.",
+    "name": "Bandung Barat",
+    "code": "32.17",
+    "provinceCode": "32"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Banjar",
+    "type": "Kota",
+    "name": "Banjar",
+    "code": "32.79",
+    "provinceCode": "32"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bekasi",
+    "type": "Kota",
+    "name": "Bekasi",
+    "code": "32.75",
+    "provinceCode": "32"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bekasi",
+    "type": "Kab.",
+    "name": "Bekasi",
+    "code": "32.16",
+    "provinceCode": "32"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bogor",
+    "type": "Kota",
+    "name": "Bogor",
+    "code": "32.71",
+    "provinceCode": "32"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bogor",
+    "type": "Kab.",
+    "name": "Bogor",
+    "code": "32.01",
+    "provinceCode": "32"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ciamis",
+    "type": "Kab.",
+    "name": "Ciamis",
+    "code": "32.07",
+    "provinceCode": "32"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Cianjur",
+    "type": "Kab.",
+    "name": "Cianjur",
+    "code": "32.03",
+    "provinceCode": "32"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Cimahi",
+    "type": "Kota",
+    "name": "Cimahi",
+    "code": "32.77",
+    "provinceCode": "32"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Cirebon",
+    "type": "Kab.",
+    "name": "Cirebon",
+    "code": "32.09",
+    "provinceCode": "32"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Cirebon",
+    "type": "Kota",
+    "name": "Cirebon",
+    "code": "32.74",
+    "provinceCode": "32"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Depok",
+    "type": "Kota",
+    "name": "Depok",
+    "code": "32.76",
+    "provinceCode": "32"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Garut",
+    "type": "Kab.",
+    "name": "Garut",
+    "code": "32.05",
+    "provinceCode": "32"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Indramayu",
+    "type": "Kab.",
+    "name": "Indramayu",
+    "code": "32.12",
+    "provinceCode": "32"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Karawang",
+    "type": "Kab.",
+    "name": "Karawang",
+    "code": "32.15",
+    "provinceCode": "32"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kuningan",
+    "type": "Kab.",
+    "name": "Kuningan",
+    "code": "32.08",
+    "provinceCode": "32"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Majalengka",
+    "type": "Kab.",
+    "name": "Majalengka",
+    "code": "32.10",
+    "provinceCode": "32"
+  },
+  {
+    "no": "20",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pangandaran",
+    "type": "Kab.",
+    "name": "Pangandaran",
+    "code": "32.18",
+    "provinceCode": "32"
+  },
+  {
+    "no": "21",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Purwakarta",
+    "type": "Kab.",
+    "name": "Purwakarta",
+    "code": "32.14",
+    "provinceCode": "32"
+  },
+  {
+    "no": "22",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Subang",
+    "type": "Kab.",
+    "name": "Subang",
+    "code": "32.13",
+    "provinceCode": "32"
+  },
+  {
+    "no": "23",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sukabumi",
+    "type": "Kab.",
+    "name": "Sukabumi",
+    "code": "32.02",
+    "provinceCode": "32"
+  },
+  {
+    "no": "24",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sukabumi",
+    "type": "Kota",
+    "name": "Sukabumi",
+    "code": "32.72",
+    "provinceCode": "32"
+  },
+  {
+    "no": "25",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumedang",
+    "type": "Kab.",
+    "name": "Sumedang",
+    "code": "32.11",
+    "provinceCode": "32"
+  },
+  {
+    "no": "26",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tasikmalaya",
+    "type": "Kota",
+    "name": "Tasikmalaya",
+    "code": "32.78",
+    "provinceCode": "32"
+  },
+  {
+    "no": "27",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tasikmalaya",
+    "type": "Kab.",
+    "name": "Tasikmalaya",
+    "code": "32.06",
+    "provinceCode": "32"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Banjarnegara",
+    "type": "Kab.",
+    "name": "Banjarnegara",
+    "code": "33.04",
+    "provinceCode": "33"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Banyumas",
+    "type": "Kab.",
+    "name": "Banyumas",
+    "code": "33.02",
+    "provinceCode": "33"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Batang",
+    "type": "Kab.",
+    "name": "Batang",
+    "code": "33.25",
+    "provinceCode": "33"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Blora",
+    "type": "Kab.",
+    "name": "Blora",
+    "code": "33.16",
+    "provinceCode": "33"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Boyolali",
+    "type": "Kab.",
+    "name": "Boyolali",
+    "code": "33.09",
+    "provinceCode": "33"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Brebes",
+    "type": "Kab.",
+    "name": "Brebes",
+    "code": "33.29",
+    "provinceCode": "33"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Cilacap",
+    "type": "Kab.",
+    "name": "Cilacap",
+    "code": "33.01",
+    "provinceCode": "33"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Demak",
+    "type": "Kab.",
+    "name": "Demak",
+    "code": "33.21",
+    "provinceCode": "33"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Grobogan",
+    "type": "Kab.",
+    "name": "Grobogan",
+    "code": "33.15",
+    "provinceCode": "33"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jepara",
+    "type": "Kab.",
+    "name": "Jepara",
+    "code": "33.20",
+    "provinceCode": "33"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Karanganyar",
+    "type": "Kab.",
+    "name": "Karanganyar",
+    "code": "33.13",
+    "provinceCode": "33"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kebumen",
+    "type": "Kab.",
+    "name": "Kebumen",
+    "code": "33.05",
+    "provinceCode": "33"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kendal",
+    "type": "Kab.",
+    "name": "Kendal",
+    "code": "33.24",
+    "provinceCode": "33"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Klaten",
+    "type": "Kab.",
+    "name": "Klaten",
+    "code": "33.10",
+    "provinceCode": "33"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kudus",
+    "type": "Kab.",
+    "name": "Kudus",
+    "code": "33.19",
+    "provinceCode": "33"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Magelang",
+    "type": "Kab.",
+    "name": "Magelang",
+    "code": "33.08",
+    "provinceCode": "33"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Magelang",
+    "type": "Kota",
+    "name": "Magelang",
+    "code": "33.71",
+    "provinceCode": "33"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pati",
+    "type": "Kab.",
+    "name": "Pati",
+    "code": "33.18",
+    "provinceCode": "33"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pekalongan",
+    "type": "Kota",
+    "name": "Pekalongan",
+    "code": "33.75",
+    "provinceCode": "33"
+  },
+  {
+    "no": "20",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pekalongan",
+    "type": "Kab.",
+    "name": "Pekalongan",
+    "code": "33.26",
+    "provinceCode": "33"
+  },
+  {
+    "no": "21",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pemalang",
+    "type": "Kab.",
+    "name": "Pemalang",
+    "code": "33.27",
+    "provinceCode": "33"
+  },
+  {
+    "no": "22",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Purbalingga",
+    "type": "Kab.",
+    "name": "Purbalingga",
+    "code": "33.03",
+    "provinceCode": "33"
+  },
+  {
+    "no": "23",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Purworejo",
+    "type": "Kab.",
+    "name": "Purworejo",
+    "code": "33.06",
+    "provinceCode": "33"
+  },
+  {
+    "no": "24",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rembang",
+    "type": "Kab.",
+    "name": "Rembang",
+    "code": "33.17",
+    "provinceCode": "33"
+  },
+  {
+    "no": "25",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Salatiga",
+    "type": "Kota",
+    "name": "Salatiga",
+    "code": "33.73",
+    "provinceCode": "33"
+  },
+  {
+    "no": "26",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Semarang",
+    "type": "Kota",
+    "name": "Semarang",
+    "code": "33.74",
+    "provinceCode": "33"
+  },
+  {
+    "no": "27",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Semarang",
+    "type": "Kab.",
+    "name": "Semarang",
+    "code": "33.22",
+    "provinceCode": "33"
+  },
+  {
+    "no": "28",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sragen",
+    "type": "Kab.",
+    "name": "Sragen",
+    "code": "33.14",
+    "provinceCode": "33"
+  },
+  {
+    "no": "29",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sukoharjo",
+    "type": "Kab.",
+    "name": "Sukoharjo",
+    "code": "33.11",
+    "provinceCode": "33"
+  },
+  {
+    "no": "30",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Surakarta",
+    "type": "Kota",
+    "name": "Surakarta",
+    "code": "33.72",
+    "provinceCode": "33"
+  },
+  {
+    "no": "31",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tegal",
+    "type": "Kab.",
+    "name": "Tegal",
+    "code": "33.28",
+    "provinceCode": "33"
+  },
+  {
+    "no": "32",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tegal",
+    "type": "Kota",
+    "name": "Tegal",
+    "code": "33.76",
+    "provinceCode": "33"
+  },
+  {
+    "no": "33",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Temanggung",
+    "type": "Kab.",
+    "name": "Temanggung",
+    "code": "33.23",
+    "provinceCode": "33"
+  },
+  {
+    "no": "34",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Wonogiri",
+    "type": "Kab.",
+    "name": "Wonogiri",
+    "code": "33.12",
+    "provinceCode": "33"
+  },
+  {
+    "no": "35",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Wonosobo",
+    "type": "Kab.",
+    "name": "Wonosobo",
+    "code": "33.07",
+    "provinceCode": "33"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bangkalan",
+    "type": "Kab.",
+    "name": "Bangkalan",
+    "code": "35.26",
+    "provinceCode": "35"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Banyuwangi",
+    "type": "Kab.",
+    "name": "Banyuwangi",
+    "code": "35.10",
+    "provinceCode": "35"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Batu",
+    "type": "Kota",
+    "name": "Batu",
+    "code": "35.79",
+    "provinceCode": "35"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Blitar",
+    "type": "Kab.",
+    "name": "Blitar",
+    "code": "35.05",
+    "provinceCode": "35"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Blitar",
+    "type": "Kota",
+    "name": "Blitar",
+    "code": "35.72",
+    "provinceCode": "35"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bojonegoro",
+    "type": "Kab.",
+    "name": "Bojonegoro",
+    "code": "35.22",
+    "provinceCode": "35"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bondowoso",
+    "type": "Kab.",
+    "name": "Bondowoso",
+    "code": "35.11",
+    "provinceCode": "35"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gresik",
+    "type": "Kab.",
+    "name": "Gresik",
+    "code": "35.25",
+    "provinceCode": "35"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jember",
+    "type": "Kab.",
+    "name": "Jember",
+    "code": "35.09",
+    "provinceCode": "35"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jombang",
+    "type": "Kab.",
+    "name": "Jombang",
+    "code": "35.17",
+    "provinceCode": "35"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Kediri",
+    "type": "Kota",
+    "name": "Kediri",
+    "code": "35.71",
+    "provinceCode": "35"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kediri",
+    "type": "Kab.",
+    "name": "Kediri",
+    "code": "35.06",
+    "provinceCode": "35"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lamongan",
+    "type": "Kab.",
+    "name": "Lamongan",
+    "code": "35.24",
+    "provinceCode": "35"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lumajang",
+    "type": "Kab.",
+    "name": "Lumajang",
+    "code": "35.08",
+    "provinceCode": "35"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Madiun",
+    "type": "Kab.",
+    "name": "Madiun",
+    "code": "35.19",
+    "provinceCode": "35"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Madiun",
+    "type": "Kota",
+    "name": "Madiun",
+    "code": "35.77",
+    "provinceCode": "35"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Magetan",
+    "type": "Kab.",
+    "name": "Magetan",
+    "code": "35.20",
+    "provinceCode": "35"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Malang",
+    "type": "Kab.",
+    "name": "Malang",
+    "code": "35.07",
+    "provinceCode": "35"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Malang",
+    "type": "Kota",
+    "name": "Malang",
+    "code": "35.73",
+    "provinceCode": "35"
+  },
+  {
+    "no": "20",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mojokerto",
+    "type": "Kab.",
+    "name": "Mojokerto",
+    "code": "35.16",
+    "provinceCode": "35"
+  },
+  {
+    "no": "21",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Mojokerto",
+    "type": "Kota",
+    "name": "Mojokerto",
+    "code": "35.76",
+    "provinceCode": "35"
+  },
+  {
+    "no": "22",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nganjuk",
+    "type": "Kab.",
+    "name": "Nganjuk",
+    "code": "35.18",
+    "provinceCode": "35"
+  },
+  {
+    "no": "23",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ngawi",
+    "type": "Kab.",
+    "name": "Ngawi",
+    "code": "35.21",
+    "provinceCode": "35"
+  },
+  {
+    "no": "24",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pacitan",
+    "type": "Kab.",
+    "name": "Pacitan",
+    "code": "35.01",
+    "provinceCode": "35"
+  },
+  {
+    "no": "25",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pamekasan",
+    "type": "Kab.",
+    "name": "Pamekasan",
+    "code": "35.28",
+    "provinceCode": "35"
+  },
+  {
+    "no": "26",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pasuruan",
+    "type": "Kab.",
+    "name": "Pasuruan",
+    "code": "35.14",
+    "provinceCode": "35"
+  },
+  {
+    "no": "27",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pasuruan",
+    "type": "Kota",
+    "name": "Pasuruan",
+    "code": "35.75",
+    "provinceCode": "35"
+  },
+  {
+    "no": "28",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ponorogo",
+    "type": "Kab.",
+    "name": "Ponorogo",
+    "code": "35.02",
+    "provinceCode": "35"
+  },
+  {
+    "no": "29",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Probolinggo",
+    "type": "Kota",
+    "name": "Probolinggo",
+    "code": "35.74",
+    "provinceCode": "35"
+  },
+  {
+    "no": "30",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Probolinggo",
+    "type": "Kab.",
+    "name": "Probolinggo",
+    "code": "35.13",
+    "provinceCode": "35"
+  },
+  {
+    "no": "31",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sampang",
+    "type": "Kab.",
+    "name": "Sampang",
+    "code": "35.27",
+    "provinceCode": "35"
+  },
+  {
+    "no": "32",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sidoarjo",
+    "type": "Kab.",
+    "name": "Sidoarjo",
+    "code": "35.15",
+    "provinceCode": "35"
+  },
+  {
+    "no": "33",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Situbondo",
+    "type": "Kab.",
+    "name": "Situbondo",
+    "code": "35.12",
+    "provinceCode": "35"
+  },
+  {
+    "no": "34",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumenep",
+    "type": "Kab.",
+    "name": "Sumenep",
+    "code": "35.29",
+    "provinceCode": "35"
+  },
+  {
+    "no": "35",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Surabaya",
+    "type": "Kota",
+    "name": "Surabaya",
+    "code": "35.78",
+    "provinceCode": "35"
+  },
+  {
+    "no": "36",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Trenggalek",
+    "type": "Kab.",
+    "name": "Trenggalek",
+    "code": "35.03",
+    "provinceCode": "35"
+  },
+  {
+    "no": "37",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tuban",
+    "type": "Kab.",
+    "name": "Tuban",
+    "code": "35.23",
+    "provinceCode": "35"
+  },
+  {
+    "no": "38",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tulungagung",
+    "type": "Kab.",
+    "name": "Tulungagung",
+    "code": "35.04",
+    "provinceCode": "35"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bengkayang",
+    "type": "Kab.",
+    "name": "Bengkayang",
+    "code": "61.07",
+    "provinceCode": "61"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kapuas Hulu",
+    "type": "Kab.",
+    "name": "Kapuas Hulu",
+    "code": "61.06",
+    "provinceCode": "61"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kayong Utara",
+    "type": "Kab.",
+    "name": "Kayong Utara",
+    "code": "61.11",
+    "provinceCode": "61"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ketapang",
+    "type": "Kab.",
+    "name": "Ketapang",
+    "code": "61.04",
+    "provinceCode": "61"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kubu Raya",
+    "type": "Kab.",
+    "name": "Kubu Raya",
+    "code": "61.12",
+    "provinceCode": "61"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Landak",
+    "type": "Kab.",
+    "name": "Landak",
+    "code": "61.08",
+    "provinceCode": "61"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Melawi",
+    "type": "Kab.",
+    "name": "Melawi",
+    "code": "61.10",
+    "provinceCode": "61"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mempawah",
+    "type": "Kab.",
+    "name": "Mempawah",
+    "code": "61.02",
+    "provinceCode": "61"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pontianak",
+    "type": "Kota",
+    "name": "Pontianak",
+    "code": "61.71",
+    "provinceCode": "61"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sambas",
+    "type": "Kab.",
+    "name": "Sambas",
+    "code": "61.01",
+    "provinceCode": "61"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sanggau",
+    "type": "Kab.",
+    "name": "Sanggau",
+    "code": "61.03",
+    "provinceCode": "61"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sekadau",
+    "type": "Kab.",
+    "name": "Sekadau",
+    "code": "61.09",
+    "provinceCode": "61"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Singkawang",
+    "type": "Kota",
+    "name": "Singkawang",
+    "code": "61.72",
+    "provinceCode": "61"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sintang",
+    "type": "Kab.",
+    "name": "Sintang",
+    "code": "61.05",
+    "provinceCode": "61"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Balangan",
+    "type": "Kab.",
+    "name": "Balangan",
+    "code": "63.11",
+    "provinceCode": "63"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Banjar",
+    "type": "Kab.",
+    "name": "Banjar",
+    "code": "63.03",
+    "provinceCode": "63"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Banjarbaru",
+    "type": "Kota",
+    "name": "Banjarbaru",
+    "code": "63.72",
+    "provinceCode": "63"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Banjarmasin",
+    "type": "Kota",
+    "name": "Banjarmasin",
+    "code": "63.71",
+    "provinceCode": "63"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Barito Kuala",
+    "type": "Kab.",
+    "name": "Barito Kuala",
+    "code": "63.04",
+    "provinceCode": "63"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Hulu Sungai Selatan",
+    "type": "Kab.",
+    "name": "Hulu Sungai Selatan",
+    "code": "63.06",
+    "provinceCode": "63"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Hulu Sungai Tengah",
+    "type": "Kab.",
+    "name": "Hulu Sungai Tengah",
+    "code": "63.07",
+    "provinceCode": "63"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Hulu Sungai Utara",
+    "type": "Kab.",
+    "name": "Hulu Sungai Utara",
+    "code": "63.08",
+    "provinceCode": "63"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kotabaru",
+    "type": "Kab.",
+    "name": "Kotabaru",
+    "code": "63.02",
+    "provinceCode": "63"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tabalong",
+    "type": "Kab.",
+    "name": "Tabalong",
+    "code": "63.09",
+    "provinceCode": "63"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tanah Bumbu",
+    "type": "Kab.",
+    "name": "Tanah Bumbu",
+    "code": "63.10",
+    "provinceCode": "63"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tanah Laut",
+    "type": "Kab.",
+    "name": "Tanah Laut",
+    "code": "63.01",
+    "provinceCode": "63"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tapin",
+    "type": "Kab.",
+    "name": "Tapin",
+    "code": "63.05",
+    "provinceCode": "63"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Barito Selatan",
+    "type": "Kab.",
+    "name": "Barito Selatan",
+    "code": "62.04",
+    "provinceCode": "62"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Barito Timur",
+    "type": "Kab.",
+    "name": "Barito Timur",
+    "code": "62.13",
+    "provinceCode": "62"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Barito Utara",
+    "type": "Kab.",
+    "name": "Barito Utara",
+    "code": "62.05",
+    "provinceCode": "62"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gunung Mas",
+    "type": "Kab.",
+    "name": "Gunung Mas",
+    "code": "62.10",
+    "provinceCode": "62"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kapuas",
+    "type": "Kab.",
+    "name": "Kapuas",
+    "code": "62.03",
+    "provinceCode": "62"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Katingan",
+    "type": "Kab.",
+    "name": "Katingan",
+    "code": "62.06",
+    "provinceCode": "62"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kotawaringin Barat",
+    "type": "Kab.",
+    "name": "Kotawaringin Barat",
+    "code": "62.01",
+    "provinceCode": "62"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kotawaringin Timur",
+    "type": "Kab.",
+    "name": "Kotawaringin Timur",
+    "code": "62.02",
+    "provinceCode": "62"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lamandau",
+    "type": "Kab.",
+    "name": "Lamandau",
+    "code": "62.09",
+    "provinceCode": "62"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Murung Raya",
+    "type": "Kab.",
+    "name": "Murung Raya",
+    "code": "62.12",
+    "provinceCode": "62"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Palangka Raya",
+    "type": "Kota",
+    "name": "Palangka Raya",
+    "code": "62.71",
+    "provinceCode": "62"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pulang Pisau",
+    "type": "Kab.",
+    "name": "Pulang Pisau",
+    "code": "62.11",
+    "provinceCode": "62"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Seruyan",
+    "type": "Kab.",
+    "name": "Seruyan",
+    "code": "62.07",
+    "provinceCode": "62"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sukamara",
+    "type": "Kab.",
+    "name": "Sukamara",
+    "code": "62.08",
+    "provinceCode": "62"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Balikpapan",
+    "type": "Kota",
+    "name": "Balikpapan",
+    "code": "64.71",
+    "provinceCode": "64"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Berau",
+    "type": "Kab.",
+    "name": "Berau",
+    "code": "64.03",
+    "provinceCode": "64"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bontang",
+    "type": "Kota",
+    "name": "Bontang",
+    "code": "64.74",
+    "provinceCode": "64"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai Barat",
+    "type": "Kab.",
+    "name": "Kutai Barat",
+    "code": "64.07",
+    "provinceCode": "64"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai Kartanegara",
+    "type": "Kab.",
+    "name": "Kutai Kartanegara",
+    "code": "64.02",
+    "provinceCode": "64"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kutai Timur",
+    "type": "Kab.",
+    "name": "Kutai Timur",
+    "code": "64.08",
+    "provinceCode": "64"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mahakam Ulu",
+    "type": "Kab.",
+    "name": "Mahakam Ulu",
+    "code": "64.11",
+    "provinceCode": "64"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Paser",
+    "type": "Kab.",
+    "name": "Paser",
+    "code": "64.01",
+    "provinceCode": "64"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Penajam Paser Utara",
+    "type": "Kab.",
+    "name": "Penajam Paser Utara",
+    "code": "64.09",
+    "provinceCode": "64"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Samarinda",
+    "type": "Kota",
+    "name": "Samarinda",
+    "code": "64.72",
+    "provinceCode": "64"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bulungan",
+    "type": "Kab.",
+    "name": "Bulungan",
+    "code": "65.01",
+    "provinceCode": "65"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Malinau",
+    "type": "Kab.",
+    "name": "Malinau",
+    "code": "65.02",
+    "provinceCode": "65"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nunukan",
+    "type": "Kab.",
+    "name": "Nunukan",
+    "code": "65.03",
+    "provinceCode": "65"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tana Tidung",
+    "type": "Kab.",
+    "name": "Tana Tidung",
+    "code": "65.04",
+    "provinceCode": "65"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tarakan",
+    "type": "Kota",
+    "name": "Tarakan",
+    "code": "65.71",
+    "provinceCode": "65"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bangka",
+    "type": "Kab.",
+    "name": "Bangka",
+    "code": "19.01",
+    "provinceCode": "19"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bangka Barat",
+    "type": "Kab.",
+    "name": "Bangka Barat",
+    "code": "19.05",
+    "provinceCode": "19"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bangka Selatan",
+    "type": "Kab.",
+    "name": "Bangka Selatan",
+    "code": "19.03",
+    "provinceCode": "19"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bangka Tengah",
+    "type": "Kab.",
+    "name": "Bangka Tengah",
+    "code": "19.04",
+    "provinceCode": "19"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Belitung",
+    "type": "Kab.",
+    "name": "Belitung",
+    "code": "19.02",
+    "provinceCode": "19"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Belitung Timur",
+    "type": "Kab.",
+    "name": "Belitung Timur",
+    "code": "19.06",
+    "provinceCode": "19"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pangkal Pinang",
+    "type": "Kota",
+    "name": "Pangkal Pinang",
+    "code": "19.71",
+    "provinceCode": "19"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Batam",
+    "type": "Kota",
+    "name": "Batam",
+    "code": "21.71",
+    "provinceCode": "21"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bintan",
+    "type": "Kab.",
+    "name": "Bintan",
+    "code": "21.01",
+    "provinceCode": "21"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Karimun",
+    "type": "Kab.",
+    "name": "Karimun",
+    "code": "21.02",
+    "provinceCode": "21"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Anambas",
+    "type": "Kab.",
+    "name": "Kepulauan Anambas",
+    "code": "21.05",
+    "provinceCode": "21"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lingga",
+    "type": "Kab.",
+    "name": "Lingga",
+    "code": "21.04",
+    "provinceCode": "21"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Natuna",
+    "type": "Kab.",
+    "name": "Natuna",
+    "code": "21.03",
+    "provinceCode": "21"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tanjung Pinang",
+    "type": "Kota",
+    "name": "Tanjung Pinang",
+    "code": "21.72",
+    "provinceCode": "21"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bandar Lampung",
+    "type": "Kota",
+    "name": "Bandar Lampung",
+    "code": "18.71",
+    "provinceCode": "18"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lampung Barat",
+    "type": "Kab.",
+    "name": "Lampung Barat",
+    "code": "18.04",
+    "provinceCode": "18"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lampung Selatan",
+    "type": "Kab.",
+    "name": "Lampung Selatan",
+    "code": "18.01",
+    "provinceCode": "18"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lampung Tengah",
+    "type": "Kab.",
+    "name": "Lampung Tengah",
+    "code": "18.02",
+    "provinceCode": "18"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lampung Timur",
+    "type": "Kab.",
+    "name": "Lampung Timur",
+    "code": "18.07",
+    "provinceCode": "18"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lampung Utara",
+    "type": "Kab.",
+    "name": "Lampung Utara",
+    "code": "18.03",
+    "provinceCode": "18"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mesuji",
+    "type": "Kab.",
+    "name": "Mesuji",
+    "code": "18.11",
+    "provinceCode": "18"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Metro",
+    "type": "Kota",
+    "name": "Metro",
+    "code": "18.72",
+    "provinceCode": "18"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pesawaran",
+    "type": "Kab.",
+    "name": "Pesawaran",
+    "code": "18.09",
+    "provinceCode": "18"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pesisir Barat",
+    "type": "Kab.",
+    "name": "Pesisir Barat",
+    "code": "18.13",
+    "provinceCode": "18"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pringsewu",
+    "type": "Kab.",
+    "name": "Pringsewu",
+    "code": "18.10",
+    "provinceCode": "18"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tanggamus",
+    "type": "Kab.",
+    "name": "Tanggamus",
+    "code": "18.06",
+    "provinceCode": "18"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tulang Bawang",
+    "type": "Kab.",
+    "name": "Tulang Bawang",
+    "code": "18.05",
+    "provinceCode": "18"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tulang Bawang Barat",
+    "type": "Kab.",
+    "name": "Tulang Bawang Barat",
+    "code": "18.12",
+    "provinceCode": "18"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Way Kanan",
+    "type": "Kab.",
+    "name": "Way Kanan",
+    "code": "18.08",
+    "provinceCode": "18"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Ambon",
+    "type": "Kota",
+    "name": "Ambon",
+    "code": "81.71",
+    "provinceCode": "81"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buru",
+    "type": "Kab.",
+    "name": "Buru",
+    "code": "81.04",
+    "provinceCode": "81"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buru Selatan",
+    "type": "Kab.",
+    "name": "Buru Selatan",
+    "code": "81.09",
+    "provinceCode": "81"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Aru",
+    "type": "Kab.",
+    "name": "Kepulauan Aru",
+    "code": "81.07",
+    "provinceCode": "81"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Tanimbar (Maluku Tenggara Barat)",
+    "type": "Kab.",
+    "name": "Kepulauan Tanimbar (Maluku Tenggara Barat)",
+    "code": "81.03",
+    "provinceCode": "81"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku Barat Daya",
+    "type": "Kab.",
+    "name": "Maluku Barat Daya",
+    "code": "81.08",
+    "provinceCode": "81"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku Tengah",
+    "type": "Kab.",
+    "name": "Maluku Tengah",
+    "code": "81.01",
+    "provinceCode": "81"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maluku Tenggara",
+    "type": "Kab.",
+    "name": "Maluku Tenggara",
+    "code": "81.02",
+    "provinceCode": "81"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Seram Bagian Barat",
+    "type": "Kab.",
+    "name": "Seram Bagian Barat",
+    "code": "81.06",
+    "provinceCode": "81"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Seram Bagian Timur",
+    "type": "Kab.",
+    "name": "Seram Bagian Timur",
+    "code": "81.05",
+    "provinceCode": "81"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tual",
+    "type": "Kota",
+    "name": "Tual",
+    "code": "81.72",
+    "provinceCode": "81"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Halmahera Barat",
+    "type": "Kab.",
+    "name": "Halmahera Barat",
+    "code": "82.01",
+    "provinceCode": "82"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Halmahera Selatan",
+    "type": "Kab.",
+    "name": "Halmahera Selatan",
+    "code": "82.04",
+    "provinceCode": "82"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Halmahera Tengah",
+    "type": "Kab.",
+    "name": "Halmahera Tengah",
+    "code": "82.02",
+    "provinceCode": "82"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Halmahera Timur",
+    "type": "Kab.",
+    "name": "Halmahera Timur",
+    "code": "82.06",
+    "provinceCode": "82"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Halmahera Utara",
+    "type": "Kab.",
+    "name": "Halmahera Utara",
+    "code": "82.03",
+    "provinceCode": "82"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Sula",
+    "type": "Kab.",
+    "name": "Kepulauan Sula",
+    "code": "82.05",
+    "provinceCode": "82"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pulau Morotai",
+    "type": "Kab.",
+    "name": "Pulau Morotai",
+    "code": "82.07",
+    "provinceCode": "82"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pulau Taliabu",
+    "type": "Kab.",
+    "name": "Pulau Taliabu",
+    "code": "82.08",
+    "provinceCode": "82"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Ternate",
+    "type": "Kota",
+    "name": "Ternate",
+    "code": "82.71",
+    "provinceCode": "82"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tidore Kepulauan",
+    "type": "Kota",
+    "name": "Tidore Kepulauan",
+    "code": "82.72",
+    "provinceCode": "82"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bima",
+    "type": "Kab.",
+    "name": "Bima",
+    "code": "52.06",
+    "provinceCode": "52"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bima",
+    "type": "Kota",
+    "name": "Bima",
+    "code": "52.72",
+    "provinceCode": "52"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Dompu",
+    "type": "Kab.",
+    "name": "Dompu",
+    "code": "52.05",
+    "provinceCode": "52"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok Barat",
+    "type": "Kab.",
+    "name": "Lombok Barat",
+    "code": "52.01",
+    "provinceCode": "52"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok Tengah",
+    "type": "Kab.",
+    "name": "Lombok Tengah",
+    "code": "52.02",
+    "provinceCode": "52"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok Timur",
+    "type": "Kab.",
+    "name": "Lombok Timur",
+    "code": "52.03",
+    "provinceCode": "52"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lombok Utara",
+    "type": "Kab.",
+    "name": "Lombok Utara",
+    "code": "52.08",
+    "provinceCode": "52"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Mataram",
+    "type": "Kota",
+    "name": "Mataram",
+    "code": "52.71",
+    "provinceCode": "52"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa",
+    "type": "Kab.",
+    "name": "Sumbawa",
+    "code": "52.04",
+    "provinceCode": "52"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumbawa Barat",
+    "type": "Kab.",
+    "name": "Sumbawa Barat",
+    "code": "52.07",
+    "provinceCode": "52"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Alor",
+    "type": "Kab.",
+    "name": "Alor",
+    "code": "53.05",
+    "provinceCode": "53"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Belu",
+    "type": "Kab.",
+    "name": "Belu",
+    "code": "53.04",
+    "provinceCode": "53"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ende",
+    "type": "Kab.",
+    "name": "Ende",
+    "code": "53.08",
+    "provinceCode": "53"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Flores Timur",
+    "type": "Kab.",
+    "name": "Flores Timur",
+    "code": "53.06",
+    "provinceCode": "53"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kupang",
+    "type": "Kab.",
+    "name": "Kupang",
+    "code": "53.01",
+    "provinceCode": "53"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Kupang",
+    "type": "Kota",
+    "name": "Kupang",
+    "code": "53.71",
+    "provinceCode": "53"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lembata",
+    "type": "Kab.",
+    "name": "Lembata",
+    "code": "53.13",
+    "provinceCode": "53"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Malaka",
+    "type": "Kab.",
+    "name": "Malaka",
+    "code": "53.21",
+    "provinceCode": "53"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manggarai",
+    "type": "Kab.",
+    "name": "Manggarai",
+    "code": "53.10",
+    "provinceCode": "53"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manggarai Barat",
+    "type": "Kab.",
+    "name": "Manggarai Barat",
+    "code": "53.15",
+    "provinceCode": "53"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manggarai Timur",
+    "type": "Kab.",
+    "name": "Manggarai Timur",
+    "code": "53.19",
+    "provinceCode": "53"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nagekeo",
+    "type": "Kab.",
+    "name": "Nagekeo",
+    "code": "53.16",
+    "provinceCode": "53"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ngada",
+    "type": "Kab.",
+    "name": "Ngada",
+    "code": "53.09",
+    "provinceCode": "53"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rote Ndao",
+    "type": "Kab.",
+    "name": "Rote Ndao",
+    "code": "53.14",
+    "provinceCode": "53"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sabu Raijua",
+    "type": "Kab.",
+    "name": "Sabu Raijua",
+    "code": "53.20",
+    "provinceCode": "53"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sikka",
+    "type": "Kab.",
+    "name": "Sikka",
+    "code": "53.07",
+    "provinceCode": "53"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumba Barat",
+    "type": "Kab.",
+    "name": "Sumba Barat",
+    "code": "53.12",
+    "provinceCode": "53"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumba Barat Daya",
+    "type": "Kab.",
+    "name": "Sumba Barat Daya",
+    "code": "53.18",
+    "provinceCode": "53"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumba Tengah",
+    "type": "Kab.",
+    "name": "Sumba Tengah",
+    "code": "53.17",
+    "provinceCode": "53"
+  },
+  {
+    "no": "20",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sumba Timur",
+    "type": "Kab.",
+    "name": "Sumba Timur",
+    "code": "53.11",
+    "provinceCode": "53"
+  },
+  {
+    "no": "21",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Timor Tengah Selatan",
+    "type": "Kab.",
+    "name": "Timor Tengah Selatan",
+    "code": "53.02",
+    "provinceCode": "53"
+  },
+  {
+    "no": "22",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Timor Tengah Utara",
+    "type": "Kab.",
+    "name": "Timor Tengah Utara",
+    "code": "53.03",
+    "provinceCode": "53"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Asmat",
+    "type": "Kab.",
+    "name": "Asmat",
+    "code": "91.18",
+    "provinceCode": "91"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Biak Numfor",
+    "type": "Kab.",
+    "name": "Biak Numfor",
+    "code": "91.06",
+    "provinceCode": "91"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Boven Digoel",
+    "type": "Kab.",
+    "name": "Boven Digoel",
+    "code": "91.16",
+    "provinceCode": "91"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Deiyai",
+    "type": "Kab.",
+    "name": "Deiyai",
+    "code": "91.28",
+    "provinceCode": "91"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Dogiyai",
+    "type": "Kab.",
+    "name": "Dogiyai",
+    "code": "91.26",
+    "provinceCode": "91"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Intan Jaya",
+    "type": "Kab.",
+    "name": "Intan Jaya",
+    "code": "91.27",
+    "provinceCode": "91"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jayapura",
+    "type": "Kab.",
+    "name": "Jayapura",
+    "code": "91.03",
+    "provinceCode": "91"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Jayapura",
+    "type": "Kota",
+    "name": "Jayapura",
+    "code": "91.71",
+    "provinceCode": "91"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jayawijaya",
+    "type": "Kab.",
+    "name": "Jayawijaya",
+    "code": "91.02",
+    "provinceCode": "91"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Keerom",
+    "type": "Kab.",
+    "name": "Keerom",
+    "code": "91.11",
+    "provinceCode": "91"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Yapen",
+    "type": "Kab.",
+    "name": "Kepulauan Yapen",
+    "code": "91.05",
+    "provinceCode": "91"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lanny Jaya",
+    "type": "Kab.",
+    "name": "Lanny Jaya",
+    "code": "91.23",
+    "provinceCode": "91"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mamberamo Raya",
+    "type": "Kab.",
+    "name": "Mamberamo Raya",
+    "code": "91.20",
+    "provinceCode": "91"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mamberamo Tengah",
+    "type": "Kab.",
+    "name": "Mamberamo Tengah",
+    "code": "91.21",
+    "provinceCode": "91"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mappi",
+    "type": "Kab.",
+    "name": "Mappi",
+    "code": "91.17",
+    "provinceCode": "91"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Merauke",
+    "type": "Kab.",
+    "name": "Merauke",
+    "code": "91.01",
+    "provinceCode": "91"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mimika",
+    "type": "Kab.",
+    "name": "Mimika",
+    "code": "91.09",
+    "provinceCode": "91"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nabire",
+    "type": "Kab.",
+    "name": "Nabire",
+    "code": "91.04",
+    "provinceCode": "91"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nduga",
+    "type": "Kab.",
+    "name": "Nduga",
+    "code": "91.24",
+    "provinceCode": "91"
+  },
+  {
+    "no": "20",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Paniai",
+    "type": "Kab.",
+    "name": "Paniai",
+    "code": "91.08",
+    "provinceCode": "91"
+  },
+  {
+    "no": "21",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pegunungan Bintang",
+    "type": "Kab.",
+    "name": "Pegunungan Bintang",
+    "code": "91.12",
+    "provinceCode": "91"
+  },
+  {
+    "no": "22",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Puncak",
+    "type": "Kab.",
+    "name": "Puncak",
+    "code": "91.25",
+    "provinceCode": "91"
+  },
+  {
+    "no": "23",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Puncak Jaya",
+    "type": "Kab.",
+    "name": "Puncak Jaya",
+    "code": "91.07",
+    "provinceCode": "91"
+  },
+  {
+    "no": "24",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sarmi",
+    "type": "Kab.",
+    "name": "Sarmi",
+    "code": "91.10",
+    "provinceCode": "91"
+  },
+  {
+    "no": "25",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Supiori",
+    "type": "Kab.",
+    "name": "Supiori",
+    "code": "91.19",
+    "provinceCode": "91"
+  },
+  {
+    "no": "26",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tolikara",
+    "type": "Kab.",
+    "name": "Tolikara",
+    "code": "91.14",
+    "provinceCode": "91"
+  },
+  {
+    "no": "27",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Waropen",
+    "type": "Kab.",
+    "name": "Waropen",
+    "code": "91.15",
+    "provinceCode": "91"
+  },
+  {
+    "no": "28",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Yahukimo",
+    "type": "Kab.",
+    "name": "Yahukimo",
+    "code": "91.13",
+    "provinceCode": "91"
+  },
+  {
+    "no": "29",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Yalimo",
+    "type": "Kab.",
+    "name": "Yalimo",
+    "code": "91.22",
+    "provinceCode": "91"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Fakfak",
+    "type": "Kab.",
+    "name": "Fakfak",
+    "code": "92.03",
+    "provinceCode": "92"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kaimana",
+    "type": "Kab.",
+    "name": "Kaimana",
+    "code": "92.08",
+    "provinceCode": "92"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari",
+    "type": "Kab.",
+    "name": "Manokwari",
+    "code": "92.02",
+    "provinceCode": "92"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Manokwari Selatan",
+    "type": "Kab.",
+    "name": "Manokwari Selatan",
+    "code": "92.11",
+    "provinceCode": "92"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maybrat",
+    "type": "Kab.",
+    "name": "Maybrat",
+    "code": "92.10",
+    "provinceCode": "92"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pegunungan Arfak",
+    "type": "Kab.",
+    "name": "Pegunungan Arfak",
+    "code": "92.12",
+    "provinceCode": "92"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Raja Ampat",
+    "type": "Kab.",
+    "name": "Raja Ampat",
+    "code": "92.05",
+    "provinceCode": "92"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sorong",
+    "type": "Kab.",
+    "name": "Sorong",
+    "code": "92.01",
+    "provinceCode": "92"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sorong",
+    "type": "Kota",
+    "name": "Sorong",
+    "code": "92.71",
+    "provinceCode": "92"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sorong Selatan",
+    "type": "Kab.",
+    "name": "Sorong Selatan",
+    "code": "92.04",
+    "provinceCode": "92"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tambrauw",
+    "type": "Kab.",
+    "name": "Tambrauw",
+    "code": "92.09",
+    "provinceCode": "92"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Teluk Bintuni",
+    "type": "Kab.",
+    "name": "Teluk Bintuni",
+    "code": "92.06",
+    "provinceCode": "92"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Teluk Wondama",
+    "type": "Kab.",
+    "name": "Teluk Wondama",
+    "code": "92.07",
+    "provinceCode": "92"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bengkalis",
+    "type": "Kab.",
+    "name": "Bengkalis",
+    "code": "14.03",
+    "provinceCode": "14"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Dumai",
+    "type": "Kota",
+    "name": "Dumai",
+    "code": "14.72",
+    "provinceCode": "14"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri Hilir",
+    "type": "Kab.",
+    "name": "Indragiri Hilir",
+    "code": "14.04",
+    "provinceCode": "14"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Indragiri Hulu",
+    "type": "Kab.",
+    "name": "Indragiri Hulu",
+    "code": "14.02",
+    "provinceCode": "14"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kampar",
+    "type": "Kab.",
+    "name": "Kampar",
+    "code": "14.01",
+    "provinceCode": "14"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Meranti",
+    "type": "Kab.",
+    "name": "Kepulauan Meranti",
+    "code": "14.10",
+    "provinceCode": "14"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kuantan Singingi",
+    "type": "Kab.",
+    "name": "Kuantan Singingi",
+    "code": "14.09",
+    "provinceCode": "14"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pekanbaru",
+    "type": "Kota",
+    "name": "Pekanbaru",
+    "code": "14.71",
+    "provinceCode": "14"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pelalawan",
+    "type": "Kab.",
+    "name": "Pelalawan",
+    "code": "14.05",
+    "provinceCode": "14"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rokan Hilir",
+    "type": "Kab.",
+    "name": "Rokan Hilir",
+    "code": "14.07",
+    "provinceCode": "14"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Rokan Hulu",
+    "type": "Kab.",
+    "name": "Rokan Hulu",
+    "code": "14.06",
+    "provinceCode": "14"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Siak",
+    "type": "Kab.",
+    "name": "Siak",
+    "code": "14.08",
+    "provinceCode": "14"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Majene",
+    "type": "Kab.",
+    "name": "Majene",
+    "code": "76.05",
+    "provinceCode": "76"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mamasa",
+    "type": "Kab.",
+    "name": "Mamasa",
+    "code": "76.03",
+    "provinceCode": "76"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mamuju",
+    "type": "Kab.",
+    "name": "Mamuju",
+    "code": "76.02",
+    "provinceCode": "76"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mamuju Tengah",
+    "type": "Kab.",
+    "name": "Mamuju Tengah",
+    "code": "76.06",
+    "provinceCode": "76"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pasangkayu (Mamuju Utara)",
+    "type": "Kab.",
+    "name": "Pasangkayu (Mamuju Utara)",
+    "code": "76.01",
+    "provinceCode": "76"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Polewali Mandar",
+    "type": "Kab.",
+    "name": "Polewali Mandar",
+    "code": "76.04",
+    "provinceCode": "76"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bantaeng",
+    "type": "Kab.",
+    "name": "Bantaeng",
+    "code": "73.03",
+    "provinceCode": "73"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Barru",
+    "type": "Kab.",
+    "name": "Barru",
+    "code": "73.11",
+    "provinceCode": "73"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bone",
+    "type": "Kab.",
+    "name": "Bone",
+    "code": "73.08",
+    "provinceCode": "73"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bulukumba",
+    "type": "Kab.",
+    "name": "Bulukumba",
+    "code": "73.02",
+    "provinceCode": "73"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Enrekang",
+    "type": "Kab.",
+    "name": "Enrekang",
+    "code": "73.16",
+    "provinceCode": "73"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Gowa",
+    "type": "Kab.",
+    "name": "Gowa",
+    "code": "73.06",
+    "provinceCode": "73"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Jeneponto",
+    "type": "Kab.",
+    "name": "Jeneponto",
+    "code": "73.04",
+    "provinceCode": "73"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Selayar",
+    "type": "Kab.",
+    "name": "Kepulauan Selayar",
+    "code": "73.01",
+    "provinceCode": "73"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Luwu",
+    "type": "Kab.",
+    "name": "Luwu",
+    "code": "73.17",
+    "provinceCode": "73"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Luwu Timur",
+    "type": "Kab.",
+    "name": "Luwu Timur",
+    "code": "73.24",
+    "provinceCode": "73"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Luwu Utara",
+    "type": "Kab.",
+    "name": "Luwu Utara",
+    "code": "73.22",
+    "provinceCode": "73"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Makassar",
+    "type": "Kota",
+    "name": "Makassar",
+    "code": "73.71",
+    "provinceCode": "73"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Maros",
+    "type": "Kab.",
+    "name": "Maros",
+    "code": "73.09",
+    "provinceCode": "73"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Palopo",
+    "type": "Kota",
+    "name": "Palopo",
+    "code": "73.73",
+    "provinceCode": "73"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pangkajene Kepulauan",
+    "type": "Kab.",
+    "name": "Pangkajene Kepulauan",
+    "code": "73.10",
+    "provinceCode": "73"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Parepare",
+    "type": "Kota",
+    "name": "Parepare",
+    "code": "73.72",
+    "provinceCode": "73"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pinrang",
+    "type": "Kab.",
+    "name": "Pinrang",
+    "code": "73.15",
+    "provinceCode": "73"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sidenreng Rappang",
+    "type": "Kab.",
+    "name": "Sidenreng Rappang",
+    "code": "73.14",
+    "provinceCode": "73"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sinjai",
+    "type": "Kab.",
+    "name": "Sinjai",
+    "code": "73.07",
+    "provinceCode": "73"
+  },
+  {
+    "no": "20",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Soppeng",
+    "type": "Kab.",
+    "name": "Soppeng",
+    "code": "73.12",
+    "provinceCode": "73"
+  },
+  {
+    "no": "21",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Takalar",
+    "type": "Kab.",
+    "name": "Takalar",
+    "code": "73.05",
+    "provinceCode": "73"
+  },
+  {
+    "no": "22",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tana Toraja",
+    "type": "Kab.",
+    "name": "Tana Toraja",
+    "code": "73.18",
+    "provinceCode": "73"
+  },
+  {
+    "no": "23",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Toraja Utara",
+    "type": "Kab.",
+    "name": "Toraja Utara",
+    "code": "73.26",
+    "provinceCode": "73"
+  },
+  {
+    "no": "24",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Wajo",
+    "type": "Kab.",
+    "name": "Wajo",
+    "code": "73.13",
+    "provinceCode": "73"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Banggai",
+    "type": "Kab.",
+    "name": "Banggai",
+    "code": "72.01",
+    "provinceCode": "72"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Banggai Kepulauan",
+    "type": "Kab.",
+    "name": "Banggai Kepulauan",
+    "code": "72.07",
+    "provinceCode": "72"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Banggai Laut",
+    "type": "Kab.",
+    "name": "Banggai Laut",
+    "code": "72.11",
+    "provinceCode": "72"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buol",
+    "type": "Kab.",
+    "name": "Buol",
+    "code": "72.05",
+    "provinceCode": "72"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Donggala",
+    "type": "Kab.",
+    "name": "Donggala",
+    "code": "72.03",
+    "provinceCode": "72"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Morowali",
+    "type": "Kab.",
+    "name": "Morowali",
+    "code": "72.06",
+    "provinceCode": "72"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Morowali Utara",
+    "type": "Kab.",
+    "name": "Morowali Utara",
+    "code": "72.12",
+    "provinceCode": "72"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Palu",
+    "type": "Kota",
+    "name": "Palu",
+    "code": "72.71",
+    "provinceCode": "72"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Parigi Moutong",
+    "type": "Kab.",
+    "name": "Parigi Moutong",
+    "code": "72.08",
+    "provinceCode": "72"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Poso",
+    "type": "Kab.",
+    "name": "Poso",
+    "code": "72.02",
+    "provinceCode": "72"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sigi",
+    "type": "Kab.",
+    "name": "Sigi",
+    "code": "72.10",
+    "provinceCode": "72"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tojo Una-Una",
+    "type": "Kab.",
+    "name": "Tojo Una-Una",
+    "code": "72.09",
+    "provinceCode": "72"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Toli-Toli",
+    "type": "Kab.",
+    "name": "Toli-Toli",
+    "code": "72.04",
+    "provinceCode": "72"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bau-Bau",
+    "type": "Kota",
+    "name": "Bau-Bau",
+    "code": "74.72",
+    "provinceCode": "74"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bombana",
+    "type": "Kab.",
+    "name": "Bombana",
+    "code": "74.06",
+    "provinceCode": "74"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton",
+    "type": "Kab.",
+    "name": "Buton",
+    "code": "74.04",
+    "provinceCode": "74"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton Selatan",
+    "type": "Kab.",
+    "name": "Buton Selatan",
+    "code": "74.15",
+    "provinceCode": "74"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton Tengah",
+    "type": "Kab.",
+    "name": "Buton Tengah",
+    "code": "74.14",
+    "provinceCode": "74"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Buton Utara",
+    "type": "Kab.",
+    "name": "Buton Utara",
+    "code": "74.10",
+    "provinceCode": "74"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Kendari",
+    "type": "Kota",
+    "name": "Kendari",
+    "code": "74.71",
+    "provinceCode": "74"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka",
+    "type": "Kab.",
+    "name": "Kolaka",
+    "code": "74.01",
+    "provinceCode": "74"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka Timur",
+    "type": "Kab.",
+    "name": "Kolaka Timur",
+    "code": "74.11",
+    "provinceCode": "74"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kolaka Utara",
+    "type": "Kab.",
+    "name": "Kolaka Utara",
+    "code": "74.08",
+    "provinceCode": "74"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe",
+    "type": "Kab.",
+    "name": "Konawe",
+    "code": "74.02",
+    "provinceCode": "74"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe Kepulauan",
+    "type": "Kab.",
+    "name": "Konawe Kepulauan",
+    "code": "74.12",
+    "provinceCode": "74"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe Selatan",
+    "type": "Kab.",
+    "name": "Konawe Selatan",
+    "code": "74.05",
+    "provinceCode": "74"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Konawe Utara",
+    "type": "Kab.",
+    "name": "Konawe Utara",
+    "code": "74.09",
+    "provinceCode": "74"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muna",
+    "type": "Kab.",
+    "name": "Muna",
+    "code": "74.03",
+    "provinceCode": "74"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muna Barat",
+    "type": "Kab.",
+    "name": "Muna Barat",
+    "code": "74.13",
+    "provinceCode": "74"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Wakatobi",
+    "type": "Kab.",
+    "name": "Wakatobi",
+    "code": "74.07",
+    "provinceCode": "74"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bitung",
+    "type": "Kota",
+    "name": "Bitung",
+    "code": "71.72",
+    "provinceCode": "71"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bolaang Mongondow",
+    "type": "Kab.",
+    "name": "Bolaang Mongondow",
+    "code": "71.01",
+    "provinceCode": "71"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bolaang Mongondow Selatan",
+    "type": "Kab.",
+    "name": "Bolaang Mongondow Selatan",
+    "code": "71.11",
+    "provinceCode": "71"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bolaang Mongondow Timur",
+    "type": "Kab.",
+    "name": "Bolaang Mongondow Timur",
+    "code": "71.10",
+    "provinceCode": "71"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Bolaang Mongondow Utara",
+    "type": "Kab.",
+    "name": "Bolaang Mongondow Utara",
+    "code": "71.08",
+    "provinceCode": "71"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Sangihe",
+    "type": "Kab.",
+    "name": "Kepulauan Sangihe",
+    "code": "71.03",
+    "provinceCode": "71"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Siau Tagulandang Biaro (Sitaro)",
+    "type": "Kab.",
+    "name": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+    "code": "71.09",
+    "provinceCode": "71"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Talaud",
+    "type": "Kab.",
+    "name": "Kepulauan Talaud",
+    "code": "71.04",
+    "provinceCode": "71"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Kotamobagu",
+    "type": "Kota",
+    "name": "Kotamobagu",
+    "code": "71.74",
+    "provinceCode": "71"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Manado",
+    "type": "Kota",
+    "name": "Manado",
+    "code": "71.71",
+    "provinceCode": "71"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Minahasa",
+    "type": "Kab.",
+    "name": "Minahasa",
+    "code": "71.02",
+    "provinceCode": "71"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Minahasa Selatan",
+    "type": "Kab.",
+    "name": "Minahasa Selatan",
+    "code": "71.05",
+    "provinceCode": "71"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Minahasa Tenggara",
+    "type": "Kab.",
+    "name": "Minahasa Tenggara",
+    "code": "71.07",
+    "provinceCode": "71"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Minahasa Utara",
+    "type": "Kab.",
+    "name": "Minahasa Utara",
+    "code": "71.06",
+    "provinceCode": "71"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tomohon",
+    "type": "Kota",
+    "name": "Tomohon",
+    "code": "71.73",
+    "provinceCode": "71"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Agam",
+    "type": "Kab.",
+    "name": "Agam",
+    "code": "13.06",
+    "provinceCode": "13"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Bukittinggi",
+    "type": "Kota",
+    "name": "Bukittinggi",
+    "code": "13.75",
+    "provinceCode": "13"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Dharmasraya",
+    "type": "Kab.",
+    "name": "Dharmasraya",
+    "code": "13.10",
+    "provinceCode": "13"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Kepulauan Mentawai",
+    "type": "Kab.",
+    "name": "Kepulauan Mentawai",
+    "code": "13.09",
+    "provinceCode": "13"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lima Puluh Kota",
+    "type": "Kab.",
+    "name": "Lima Puluh Kota",
+    "code": "13.07",
+    "provinceCode": "13"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Padang",
+    "type": "Kota",
+    "name": "Padang",
+    "code": "13.71",
+    "provinceCode": "13"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Padang Panjang",
+    "type": "Kota",
+    "name": "Padang Panjang",
+    "code": "13.74",
+    "provinceCode": "13"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Padang Pariaman",
+    "type": "Kab.",
+    "name": "Padang Pariaman",
+    "code": "13.05",
+    "provinceCode": "13"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pariaman",
+    "type": "Kota",
+    "name": "Pariaman",
+    "code": "13.77",
+    "provinceCode": "13"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pasaman",
+    "type": "Kab.",
+    "name": "Pasaman",
+    "code": "13.08",
+    "provinceCode": "13"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pasaman Barat",
+    "type": "Kab.",
+    "name": "Pasaman Barat",
+    "code": "13.12",
+    "provinceCode": "13"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Payakumbuh",
+    "type": "Kota",
+    "name": "Payakumbuh",
+    "code": "13.76",
+    "provinceCode": "13"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pesisir Selatan",
+    "type": "Kab.",
+    "name": "Pesisir Selatan",
+    "code": "13.01",
+    "provinceCode": "13"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sawah Lunto",
+    "type": "Kota",
+    "name": "Sawah Lunto",
+    "code": "13.73",
+    "provinceCode": "13"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Sijunjung",
+    "type": "Kab.",
+    "name": "Sijunjung",
+    "code": "13.03",
+    "provinceCode": "13"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Solok",
+    "type": "Kab.",
+    "name": "Solok",
+    "code": "13.02",
+    "provinceCode": "13"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Solok",
+    "type": "Kota",
+    "name": "Solok",
+    "code": "13.72",
+    "provinceCode": "13"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Solok Selatan",
+    "type": "Kab.",
+    "name": "Solok Selatan",
+    "code": "13.11",
+    "provinceCode": "13"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tanah Datar",
+    "type": "Kab.",
+    "name": "Tanah Datar",
+    "code": "13.04",
+    "provinceCode": "13"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Banyuasin",
+    "type": "Kab.",
+    "name": "Banyuasin",
+    "code": "16.07",
+    "provinceCode": "16"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Empat Lawang",
+    "type": "Kab.",
+    "name": "Empat Lawang",
+    "code": "16.11",
+    "provinceCode": "16"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Lahat",
+    "type": "Kab.",
+    "name": "Lahat",
+    "code": "16.04",
+    "provinceCode": "16"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Lubuk Linggau",
+    "type": "Kota",
+    "name": "Lubuk Linggau",
+    "code": "16.73",
+    "provinceCode": "16"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Muara Enim",
+    "type": "Kab.",
+    "name": "Muara Enim",
+    "code": "16.03",
+    "provinceCode": "16"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Musi Banyuasin",
+    "type": "Kab.",
+    "name": "Musi Banyuasin",
+    "code": "16.06",
+    "provinceCode": "16"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Musi Rawas",
+    "type": "Kab.",
+    "name": "Musi Rawas",
+    "code": "16.05",
+    "provinceCode": "16"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Musi Rawas Utara",
+    "type": "Kab.",
+    "name": "Musi Rawas Utara",
+    "code": "16.13",
+    "provinceCode": "16"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ogan Ilir",
+    "type": "Kab.",
+    "name": "Ogan Ilir",
+    "code": "16.10",
+    "provinceCode": "16"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ogan Komering Ilir",
+    "type": "Kab.",
+    "name": "Ogan Komering Ilir",
+    "code": "16.02",
+    "provinceCode": "16"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ogan Komering Ulu",
+    "type": "Kab.",
+    "name": "Ogan Komering Ulu",
+    "code": "16.01",
+    "provinceCode": "16"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ogan Komering Ulu Selatan",
+    "type": "Kab.",
+    "name": "Ogan Komering Ulu Selatan",
+    "code": "16.09",
+    "provinceCode": "16"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Ogan Komering Ulu Timur",
+    "type": "Kab.",
+    "name": "Ogan Komering Ulu Timur",
+    "code": "16.08",
+    "provinceCode": "16"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pagar Alam",
+    "type": "Kota",
+    "name": "Pagar Alam",
+    "code": "16.72",
+    "provinceCode": "16"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Palembang",
+    "type": "Kota",
+    "name": "Palembang",
+    "code": "16.71",
+    "provinceCode": "16"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Penukal Abab Lematang Ilir",
+    "type": "Kab.",
+    "name": "Penukal Abab Lematang Ilir",
+    "code": "16.12",
+    "provinceCode": "16"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Prabumulih",
+    "type": "Kota",
+    "name": "Prabumulih",
+    "code": "16.74",
+    "provinceCode": "16"
+  },
+  {
+    "no": "1",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Asahan",
+    "type": "Kab.",
+    "name": "Asahan",
+    "code": "12.09",
+    "provinceCode": "12"
+  },
+  {
+    "no": "2",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Batu Bara",
+    "type": "Kab.",
+    "name": "Batu Bara",
+    "code": "12.19",
+    "provinceCode": "12"
+  },
+  {
+    "no": "3",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Binjai",
+    "type": "Kota",
+    "name": "Binjai",
+    "code": "12.75",
+    "provinceCode": "12"
+  },
+  {
+    "no": "4",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Dairi",
+    "type": "Kab.",
+    "name": "Dairi",
+    "code": "12.11",
+    "provinceCode": "12"
+  },
+  {
+    "no": "5",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Deli Serdang",
+    "type": "Kab.",
+    "name": "Deli Serdang",
+    "code": "12.07",
+    "provinceCode": "12"
+  },
+  {
+    "no": "6",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Gunungsitoli",
+    "type": "Kota",
+    "name": "Gunungsitoli",
+    "code": "12.78",
+    "provinceCode": "12"
+  },
+  {
+    "no": "7",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Humbang Hasundutan",
+    "type": "Kab.",
+    "name": "Humbang Hasundutan",
+    "code": "12.16",
+    "provinceCode": "12"
+  },
+  {
+    "no": "8",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Karo",
+    "type": "Kab.",
+    "name": "Karo",
+    "code": "12.06",
+    "provinceCode": "12"
+  },
+  {
+    "no": "9",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Labuhanbatu",
+    "type": "Kab.",
+    "name": "Labuhanbatu",
+    "code": "12.10",
+    "provinceCode": "12"
+  },
+  {
+    "no": "10",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Labuhanbatu Selatan",
+    "type": "Kab.",
+    "name": "Labuhanbatu Selatan",
+    "code": "12.22",
+    "provinceCode": "12"
+  },
+  {
+    "no": "11",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Labuhanbatu Utara",
+    "type": "Kab.",
+    "name": "Labuhanbatu Utara",
+    "code": "12.23",
+    "provinceCode": "12"
+  },
+  {
+    "no": "12",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Langkat",
+    "type": "Kab.",
+    "name": "Langkat",
+    "code": "12.05",
+    "provinceCode": "12"
+  },
+  {
+    "no": "13",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Mandailing Natal",
+    "type": "Kab.",
+    "name": "Mandailing Natal",
+    "code": "12.13",
+    "provinceCode": "12"
+  },
+  {
+    "no": "14",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Medan",
+    "type": "Kota",
+    "name": "Medan",
+    "code": "12.71",
+    "provinceCode": "12"
+  },
+  {
+    "no": "15",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nias",
+    "type": "Kab.",
+    "name": "Nias",
+    "code": "12.04",
+    "provinceCode": "12"
+  },
+  {
+    "no": "16",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nias Barat",
+    "type": "Kab.",
+    "name": "Nias Barat",
+    "code": "12.25",
+    "provinceCode": "12"
+  },
+  {
+    "no": "17",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nias Selatan",
+    "type": "Kab.",
+    "name": "Nias Selatan",
+    "code": "12.14",
+    "provinceCode": "12"
+  },
+  {
+    "no": "18",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Nias Utara",
+    "type": "Kab.",
+    "name": "Nias Utara",
+    "code": "12.24",
+    "provinceCode": "12"
+  },
+  {
+    "no": "19",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Padang Lawas",
+    "type": "Kab.",
+    "name": "Padang Lawas",
+    "code": "12.21",
+    "provinceCode": "12"
+  },
+  {
+    "no": "20",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Padang Lawas Utara",
+    "type": "Kab.",
+    "name": "Padang Lawas Utara",
+    "code": "12.20",
+    "provinceCode": "12"
+  },
+  {
+    "no": "21",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Padang Sidempuan",
+    "type": "Kota",
+    "name": "Padang Sidempuan",
+    "code": "12.77",
+    "provinceCode": "12"
+  },
+  {
+    "no": "22",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Pakpak Bharat",
+    "type": "Kab.",
+    "name": "Pakpak Bharat",
+    "code": "12.15",
+    "provinceCode": "12"
+  },
+  {
+    "no": "23",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Pematang Siantar",
+    "type": "Kota",
+    "name": "Pematang Siantar",
+    "code": "12.72",
+    "provinceCode": "12"
+  },
+  {
+    "no": "24",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Samosir",
+    "type": "Kab.",
+    "name": "Samosir",
+    "code": "12.17",
+    "provinceCode": "12"
+  },
+  {
+    "no": "25",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Serdang Bedagai",
+    "type": "Kab.",
+    "name": "Serdang Bedagai",
+    "code": "12.18",
+    "provinceCode": "12"
+  },
+  {
+    "no": "26",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Sibolga",
+    "type": "Kota",
+    "name": "Sibolga",
+    "code": "12.73",
+    "provinceCode": "12"
+  },
+  {
+    "no": "27",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Simalungun",
+    "type": "Kab.",
+    "name": "Simalungun",
+    "code": "12.08",
+    "provinceCode": "12"
+  },
+  {
+    "no": "28",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tanjung Balai",
+    "type": "Kota",
+    "name": "Tanjung Balai",
+    "code": "12.74",
+    "provinceCode": "12"
+  },
+  {
+    "no": "29",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tapanuli Selatan",
+    "type": "Kab.",
+    "name": "Tapanuli Selatan",
+    "code": "12.03",
+    "provinceCode": "12"
+  },
+  {
+    "no": "30",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tapanuli Tengah",
+    "type": "Kab.",
+    "name": "Tapanuli Tengah",
+    "code": "12.01",
+    "provinceCode": "12"
+  },
+  {
+    "no": "31",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Tapanuli Utara",
+    "type": "Kab.",
+    "name": "Tapanuli Utara",
+    "code": "12.02",
+    "provinceCode": "12"
+  },
+  {
+    "no": "32",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kota&jobs=Tebing Tinggi",
+    "type": "Kota",
+    "name": "Tebing Tinggi",
+    "code": "12.76",
+    "provinceCode": "12"
+  },
+  {
+    "no": "33",
+    "link": "https://www.nomor.net/_kodepos.php?_i=kecamatan-kodepos&sby=000000&daerah=Kab.&jobs=Toba Samosir",
+    "type": "Kab.",
+    "name": "Toba Samosir",
+    "code": "12.12",
+    "provinceCode": "12"
+  }
+]
